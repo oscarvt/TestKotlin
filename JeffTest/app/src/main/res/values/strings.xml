@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JeffTest</string>
+
+    <!-- MAIN ACTIVITY !-->
+    <string name="main_nocities">No tienes ciudades en el historial</string>
+
+</resources>
