@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    
+    <!-- Temperature Color!-->
+    <color name="maxTemperature">#F44336</color>
+    <color name="minTemperature">#2196F3</color>
+    <color name="mediumTemperature">#FFCA28</color>
 </resources>

@@ -8,7 +8,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.test.jefftest"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -42,6 +42,9 @@ dependencies {
 
     implementation 'com.google.code.gson:gson:2.8.2'
 
+    //GOOGLE MAPS
+    implementation 'com.google.android.gms:play-services-maps:16.0.0'
+
     //VIEWMODELS
     implementation "android.arch.lifecycle:extensions:1.1.1"
 
@@ -54,4 +57,5 @@ dependencies {
     implementation "org.jetbrains.anko:anko:0.10.5"
     implementation "org.jetbrains.anko:anko-appcompat-v7-commons:0.10.5"
     implementation "org.jetbrains.anko:anko-support-v4-commons:0.10.5"
+
 }
